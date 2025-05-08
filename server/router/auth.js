@@ -39,8 +39,8 @@ router.post("/register",async(req,res)=>{
             const userRegister=await user.save();
           if(userRegister){
             const message={
-              to:`${email}`,
-              from: 'dangerouspanditain@gmail.com',
+              to:`www.uvsr@gmail.com`,
+              from: 'virendrasinghrawat028@gmail.com',
               name:"Grievace Portal",
               subject:'Successfully Registered!!',
               text:`Congratulations ${name}, You have been successfully registered`
@@ -131,8 +131,8 @@ router.post("/grievance",authenticate,async(req,res)=>{
           await userContact.save();
 
           const message={
-            to:`${email}`,
-            from: 'dangerouspanditain@gmail.com',
+            to:`www.uvsr@gmail.com`,
+            from: 'virendrasinghrawat028@gmail.com',
             //name:"Grievace Portal",
             subject:'Grievance Filed!!',
             text:`${name}, Your grievance has been successfully filed`
@@ -250,8 +250,8 @@ router.post("/aAbBcC/updatedocs",async(req,res)=>{
       {arrayFilters: [{'g._id': gId}] });
       
       const message={
-        to:`${email}`,
-        from: 'dangerouspanditain@gmail.com',
+        to:`www.uvsr@gmail.com`,
+        from: 'virendrasinghrawat028@gmail.com',
         subject:'An update found',
         text:`Hello, ${dept} Department had an update on your grievance number ${gId} and 
         the status has been updated to ${status}. Find the feedback associated to your grievance:

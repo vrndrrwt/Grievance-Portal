@@ -117,7 +117,7 @@ const Login=()=>{
              </div>
              <div className="contact_info_item col-2 abc">
                <h6>Address</h6>
-               <p>New Delhi</p>
+               <p>Rajasthan</p>
              </div>
 
            </div>
