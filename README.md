@@ -118,4 +118,4 @@ MONGO_URI=your_mongodb_uri
 
 ## Contact
 
-Have questions or feedback? Email me at: **[vrndrrwt@gmail.com](mailto:virendrasinghrawat028@gmail.com)**
+Have questions or feedback? Email me at: **[virendrasinghrawat028@gmail.com](mailto:virendrasinghrawat028@gmail.com)**
