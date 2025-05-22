@@ -55,8 +55,8 @@ A smart, AI-powered web application that enables citizens to file public grievan
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/public-grievance-portal.git
-cd public-grievance-portal
+git clone https://github.com/yourusername/public-grievance-redressal-portal.git
+cd public-grievance-redressal-portal
 ```
 
 ### 2. Start Backend Server
@@ -118,4 +118,4 @@ MONGO_URI=your_mongodb_uri
 
 ## Contact
 
-Have questions or feedback? Email me at: **[vrndrrwt@gmail.com](mailto:vrndrrwt@gmail.com)**
+Have questions or feedback? Email me at: **[vrndrrwt@gmail.com](mailto:virendrasinghrawat028@gmail.com)**
